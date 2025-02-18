@@ -1,2 +1,4 @@
 # Day_trading
-only for academic purpoe
+Step1: download data using download.ipynb
+Step2: Train
+Steop3: Test
